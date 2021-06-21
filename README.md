@@ -56,3 +56,11 @@ I explain how to install the version ESPloit V2.7.41 either because the Cactus W
    - Por ultimo le damos a Subir programa
    
 6. Ya estaria nuestro Cactus WHID configurado y listo para usarse, recordar que el punto de acceso se llama "Exploit" y la contraseña es "DotAgency"
+
+## Software y recursos usados
+https://github.com/whid-injector/WHID/tree/master/ESPloitV2_whid
+https://github.com/nodemcu/nodemcu-flasher
+
+## Wiki Cactus WHID
+https://github.com/whid-injector/WHID/wiki
+
